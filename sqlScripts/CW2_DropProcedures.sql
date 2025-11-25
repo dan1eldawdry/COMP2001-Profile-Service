@@ -1,0 +1,2 @@
+DROP PROCEDURE CW2.AddUser;
+GO
